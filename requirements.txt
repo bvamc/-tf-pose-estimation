@@ -4,6 +4,7 @@ fire
 matplotlib
 numba
 psutil
+pycocotools
 requests
 scikit-image
 scipy
